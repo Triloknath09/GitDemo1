@@ -23,6 +23,9 @@ public class Demo2Test {
 	   	Mobile2Test ref3 = new Mobile2Test();
 		ref3.Book2();
 		System.out.println("exceuted");	
+
+		System.out.println("addedafterclone");	
+
 			}
    
    /*@Test
